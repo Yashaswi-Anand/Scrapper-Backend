@@ -3,8 +3,6 @@
 fastapi==0.111.0  # A modern, fast (high-performance) web framework for building APIs with Python 3.7+ based on standard Python type hints.
 selenium==4.22.0  # A powerful tool for automating web browsers, commonly used for web scraping and testing.
 uvicorn==0.30.1  # An ASGI server, often used to run FastAPI applications.
-python-multipart==0.0.9  # A library for parsing multipart form data, used by FastAPI for handling file uploads.
-pandas==2.2.2  # A data manipulation and analysis library, excellent for working with tabular data.
 beautifulsoup4==4.12.3  # A library for pulling data out of HTML and XML files, often used in conjunction with `requests` for web scraping.
 requests==2.32.3  # An elegant and simple HTTP library for Python, used for making web requests.
 webdriver_manager==4.0.1  # A library that automatically manages (downloads, sets up) the necessary web drivers for Selenium.
