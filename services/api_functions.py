@@ -71,7 +71,7 @@ def get_latest_job_data(tech_job: str, location: str):
     return {"message": f"Scraped {len(data)} jobs from Naukri.com", "data": data}
 
 
-def get_simple_data(tech_job: str, location: str):
+def get_simple_data_2(tech_job: str, location: str):
     return {
   "message": "Scraped 20 jobs from Naukri.com",
   "data": [ 
